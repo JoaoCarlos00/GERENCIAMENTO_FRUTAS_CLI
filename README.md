@@ -1,18 +1,22 @@
-# Título do projeto
+# AC2
 
-Um parágrafo da descrição do projeto vai aqui
+Exercício sobre Gerenciamento de Frutas
 
-## 🚀 Começando
+## 🚀 Enunciado
 
-Pode colocar o enunciado para o desenvolvimento do projeto
+CRIE UM PROJETO JAVA PARA O EXEMPLO DE ARRAYLIST;
 
-### 📋 Pré-requisitos
+SIGA OS PASSOS DO EXEMPLO E CONSTRUA O CÓDIGO DIGITADO, O EXEMPLO ESTÁ DISPONÍVEL NO SLIDE 26 DA AULA 10;
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+AO TÉRMINO EXECUTE O PROGRAMA PARA VER SE SUAS FUNCIONALIDADES ESTÃO CORRETAS;
 
-```
-Dar exemplos
-```
+COMENTE O CÓDIGO INTEIRO DEMONSTRANDO SEUS CONHECIMENTOS SOBRE O MESMO;
+
+CRIE UM REPOSITÓRIO REMOTO COM TÍTULO: GERENCIAMENTO_FRUTAS_CLI;
+
+### 📋 Resultado
+
+![imagem_2024-11-06_231921944](https://github.com/user-attachments/assets/fcdf712d-2490-4e3f-a160-b64f540e9e7e)
 
 ### 🔧 Instalação
 
@@ -31,5 +35,5 @@ Ferramentas utilizadas e bibliotecas
 
 ## ✒️ Autores
 
-* **Nome do desenvolvedor** - *Trabalho Inicial* - Nome da atividade
+* João Carlos Ferreira de Araujo RA 248152 - AC2 de Programação Orientada à Objetos
 
